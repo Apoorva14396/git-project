@@ -1,0 +1,41 @@
+.header {
+  margin-bottom: 40px;
+}
+.banner {
+  width: 100%;
+  background-color: black;
+  height: 200px;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: black;
+  color: white;
+  text-align: center;
+  height: 50px;
+  margin-top: 150px;
+}
+.my-login {
+  border: 1px solid #000 !important;
+}
+.my-menu {
+  border: 1px solid #000 !important;
+}
+
+.submit-button {
+  width: 80px;
+  background-color: black;
+  color: white;
+}
+.my-box {
+  background-color: black;
+  color: white;
+  margin: 0.25rem;
+  padding: 0.5rem;
+}
+.modified-container {
+  margin-bottom: 100px;
+}
